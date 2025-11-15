@@ -1,2 +1,2 @@
 iniciei issue Continuous integration
-aula dia 29
+aula dia 29 (Estabilizar "npm test" (Paralelismo) assistida)
