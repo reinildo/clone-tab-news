@@ -1,5 +1,9 @@
 import database from "infra/database.js";
+<<<<<<< HEAD
 import orchestrator from "tests/orchestrator.js";
+=======
+import orchestrator from "tests/orchestrator";
+>>>>>>> fix-npm-test
 
 beforeAll(async () => {
   await orchestrator.waitForAllServices();
