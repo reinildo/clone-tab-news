@@ -1,2 +1,1 @@
-iniciei issue Continuous integration
-aula dia 29 (Estabilizar "npm test" (Paralelismo) assistida)
+aula dia 30 (rafaelcorrea-dev: "maxTimeout") falta assistir
